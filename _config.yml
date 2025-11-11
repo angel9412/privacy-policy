@@ -1,0 +1,11 @@
+# GitHub Pages configuration for Privacy Policy
+# This enables GitHub Pages to serve the privacy policy
+
+# Theme (using default)
+theme: null
+
+# Exclude files from being served
+exclude:
+  - README.md
+  - .git
+  - .gitignore
